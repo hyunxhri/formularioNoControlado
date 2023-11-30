@@ -1,4 +1,4 @@
-import FormNoControlado from "./assets/formNoControlado"
+import FormNoControlado from "./formNoControlado"
 
 function App() {
   return (
